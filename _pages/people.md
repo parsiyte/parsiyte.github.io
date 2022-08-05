@@ -8,19 +8,19 @@ author_profile: true
 Faculty
 ---
 
-**[Işıl Öz](https://www.linkedin.com/in/isiloz/)<br/>
+**[Işıl Öz](https://www.linkedin.com/in/isiloz/)**<br/><br/>
 <img src='/images/bio-photo.jpg'>
 
 Graduate Students
 ---
 
-- **Burak Topçu<br/>
+- **Burak Topçu**<br/><br/>
 <img src='/images/bio-photo.jpg'>
-- Thesis Title: Approximate Computing Techniques for GPUs
+ Thesis Title: Approximate Computing Techniques for GPUs
 
-- **Emre Dinçer<br/>
+- **Emre Dinçer**<br/><br/>
 <img src='/images/bio-photo.jpg'>
-- Thesis Title: Accelerating Community Detection on GPUs
+ Thesis Title: Accelerating Community Detection on GPUs
 
 Alumni
 ---
