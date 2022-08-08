@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PARS (Parallel Systems) Research Group is led by Assistant Professor Işıl Öz. We are part of Computer Engineering Department at IZTECH.
+PARS (Parallel Systems) Research Group is led by Assistant Professor Işıl Öz. We are part of **[Computer Engineering Department](https://ceng.iyte.edu.tr)** at **[IZTECH](https://www.iyte.edu.tr)**.
 
 Our group focuses on various issues:
 
