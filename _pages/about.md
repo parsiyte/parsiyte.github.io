@@ -17,7 +17,7 @@ Our group focuses on various issues:
 - Parallel software development
 - Parallel programming models
 
-We are always looking for motivated students interested in related topics. Please feel free to email **[Işıl]**(mailto:isiloz@iyte.edu.tr)!
+We are always looking for motivated students interested in related topics. Please feel free to email **[Işıl](mailto:isiloz@iyte.edu.tr)**!
 
 
 Recent News
