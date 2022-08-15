@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PARS (Parallel Systems) Research Group is led by Assistant Professor Işıl Öz. We are part of **[Computer Engineering Department](https://ceng.iyte.edu.tr)** at **[IZTECH](https://www.iyte.edu.tr)**.
+PARS (Parallel Systems) Research Group is led by Assistant Professor Işıl Öz. We are part of [Computer Engineering Department](https://ceng.iyte.edu.tr) at [IZTECH](https://www.iyte.edu.tr).
 
 Our group focuses on various issues:
 
@@ -17,11 +17,13 @@ Our group focuses on various issues:
 - Parallel software development
 - Parallel programming models
 
-We are always looking for motivated students interested in related topics. Please feel free to email **[Işıl](mailto:isiloz@iyte.edu.tr)**!
+We are always looking for motivated students interested in related topics. Please feel free to email [Işıl](mailto:isiloz@iyte.edu.tr)!
 
 
 Recent News
 ------
 
-- News 1
-- News 2
+- [23/06/22] Ercüment defended his MSc thesis successfully.
+<img src='/images/EK_thesis.jpeg'>
+- [10/03/22] Burak presented our paper titled "Predicting the Soft Error Vulnerability of GPGPU Applications" in the 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP 2022). [Link](https://www.youtube.com/watch?v=UjibAly2sjY)
+

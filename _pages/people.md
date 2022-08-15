@@ -9,7 +9,7 @@ Faculty
 ---
 
 **[Işıl Öz](https://www.linkedin.com/in/isiloz/)**<br/><br/>
-<img src='/images/bio-photo.jpg'>
+<img src='/images/isil_oz.png'>
 
 Graduate Students
 ---
@@ -19,8 +19,8 @@ Graduate Students
  PhD Student<br/>
  Thesis Title: Task Scheduling in Cloud Environments
  
-- **Burak Topçu**<br/><br/>
-<img src='/images/bio-photo.jpg'>
+- **[Burak Topçu](https://tr.linkedin.com/in/burak-topcu)**<br/><br/>
+<img src='/images/BurakTopcu.jpeg'>
  MSc Student<br/>
  Thesis Title: Approximate Computing Techniques for GPUs
 
@@ -47,4 +47,5 @@ Graduate Students
 Alumni
 ---
 
-- XX
+- Ömer Faruk Karadaş
+- Busenur Aktılav
