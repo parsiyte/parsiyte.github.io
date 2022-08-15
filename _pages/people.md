@@ -15,7 +15,7 @@ Graduate Students
 ---
 
 - **Serhat Caner**<br/><br/>
-<img src='/images/bio-photo.jpg'>
+<img src='/images/bio-photo.jpg' width="180" height="200">
  PhD Student<br/>
  
  Thesis Title: Task Scheduling in Cloud Environments
@@ -27,25 +27,25 @@ Graduate Students
  Thesis Title: Approximate Computing Techniques for GPUs
 
 - **Emre Dinçer**<br/><br/>
-<img src='/images/bio-photo.jpg'>
+<img src='/images/bio-photo.jpg' width="180" height="200">
  MSc Student<br/>
  
  Thesis Title: Accelerating Community Detection on GPUs
 
 - **Ercüment Kaya**<br/><br/>
-<img src='/images/bio-photo.jpg'>
+<img src='/images/bio-photo.jpg' width="180" height="200">
  MSc Student<br/>
  
  Thesis Title: Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units
  
 - **Olgu Erten**<br/><br/>
-<img src='/images/bio-photo.jpg'>
+<img src='/images/bio-photo.jpg' width="180" height="200">
  MSc Student<br/>
  
  Thesis Title: Approximate Computing on Embedded Systems
  
 - **Yağızcan Sezgin**<br/><br/>
-<img src='/images/bio-photo.jpg'>
+<img src='/images/bio-photo.jpg' width="180" height="200">
  MSc Student<br/>
  
  Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs
