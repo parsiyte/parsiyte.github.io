@@ -20,7 +20,7 @@ Graduate Students
  Thesis Title: Task Scheduling in Cloud Environments
  
 - **[Burak Topçu](https://tr.linkedin.com/in/burak-topcu)**<br/><br/>
-<img src='/images/BurakTopcu.jpeg'>
+<img src='/images/burak_topcu.png'>
  MSc Student<br/>
  Thesis Title: Approximate Computing Techniques for GPUs
 
