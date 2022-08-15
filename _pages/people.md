@@ -9,7 +9,7 @@ Faculty
 ---
 
 **[Işıl Öz](https://www.linkedin.com/in/isiloz/)**<br/><br/>
-<img src='/images/isil_oz.png'>
+<img src='/images/isil_oz.png' width="180" height="200">
 
 Graduate Students
 ---
@@ -17,31 +17,37 @@ Graduate Students
 - **Serhat Caner**<br/><br/>
 <img src='/images/bio-photo.jpg'>
  PhD Student<br/>
+ 
  Thesis Title: Task Scheduling in Cloud Environments
  
 - **[Burak Topçu](https://tr.linkedin.com/in/burak-topcu)**<br/><br/>
-<img src='/images/burak_topcu.png'>
+<img src='/images/burak_topcu.png' width="180" height="200">
  MSc Student<br/>
+ 
  Thesis Title: Approximate Computing Techniques for GPUs
 
 - **Emre Dinçer**<br/><br/>
 <img src='/images/bio-photo.jpg'>
  MSc Student<br/>
+ 
  Thesis Title: Accelerating Community Detection on GPUs
 
 - **Ercüment Kaya**<br/><br/>
 <img src='/images/bio-photo.jpg'>
  MSc Student<br/>
+ 
  Thesis Title: Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units
  
 - **Olgu Erten**<br/><br/>
 <img src='/images/bio-photo.jpg'>
  MSc Student<br/>
+ 
  Thesis Title: Approximate Computing on Embedded Systems
  
 - **Yağızcan Sezgin**<br/><br/>
 <img src='/images/bio-photo.jpg'>
  MSc Student<br/>
+ 
  Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs
  
 Alumni
