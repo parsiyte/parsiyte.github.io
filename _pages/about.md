@@ -25,7 +25,7 @@ Recent News
 
 - **[23/06/22]** Ercüment defended his MSc thesis successfully.
 
-<img src='/images/EK_defense.png'>
+  <img src='/images/EK_defense.png'>
 
 
 - **[10/03/22]** Burak presented our paper titled "Predicting the Soft Error Vulnerability of GPGPU Applications" in the 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP 2022). [Link](https://www.youtube.com/watch?v=UjibAly2sjY)
