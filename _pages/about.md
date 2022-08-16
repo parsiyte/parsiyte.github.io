@@ -25,8 +25,11 @@ Recent News
 
 - **[23/06/22]** Ercüment defended his MSc thesis successfully.
 
-  <img src='/images/EK_defense.png' width="600" height="400">
+  <img src='/images/EK_defense.png' width="400" height="200">
 
 
 - **[10/03/22]** Burak presented our paper titled "Predicting the Soft Error Vulnerability of GPGPU Applications" in the 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP 2022). [Link](https://www.youtube.com/watch?v=UjibAly2sjY)
 
+- **[26/10/21]** We attended Hipeac CSW Student Challenge event and presented our work. 
+
+  <img src='/images/lyon.jpeg' width="400" height="200">
