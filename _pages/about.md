@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "PARS Research Group at IZTECH"
+excerpt: "PARS Research Group at IZTECH"
 author_profile: true
 redirect_from: 
   - /about/
