@@ -32,7 +32,7 @@ Recent News
 
 - **[20/12/21]** Işıl has been certified as [NVIDIA Deep Learning Institute (DLI) Instructor and University Ambassador](https://www.nvidia.com/en-gb/deep-learning-ai/education/ambassador-program/). She will bring free accelerated computing and deep learning workshops for students and lecturers. 
 
-  <img src='/images/nvidia-350x240.png' width="400" height="200">
+  <img src='/images/nvidia-350x240.png' width="350" height="240">
   
 - **[26/10/21]** We attended [Hipeac CSW Student Challenge](https://www.hipeac.net/csw/2021/lyon/) in Lyon and presented our work. 
 
