@@ -26,8 +26,8 @@ Graduate Students
  
  Thesis Title: Approximate Computing Techniques for GPUs
 
-- **Emre Dinçer**<br/><br/>
-<img src='/images/bio-photo.jpg' width="180" height="200">
+- **[Emre Dinçer](https://www.linkedin.com/in/emredncr)**<br/><br/>
+<img src='/images/emre_dincer.jpeg' width="180" height="200">
  MSc Student<br/>
  
  Thesis Title: Accelerating Community Detection on GPUs
