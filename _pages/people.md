@@ -32,12 +32,6 @@ Graduate Students
  
  Thesis Title: Accelerating Community Detection on GPUs
 
-- **Ercüment Kaya**<br/><br/>
-<img src='/images/bio-photo.jpg' width="180" height="200">
- MSc Student<br/>
- 
- Thesis Title: Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units
- 
 - **Olgu Erten**<br/><br/>
 <img src='/images/bio-photo.jpg' width="180" height="200">
  MSc Student<br/>
@@ -53,5 +47,6 @@ Graduate Students
 Alumni
 ---
 
-- Ömer Faruk Karadaş
-- Busenur Aktılav
+- Ercüment Kaya, MSc Student, Thesis Title: Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units
+- Ömer Faruk Karadaş, BSc Student
+- Busenur Aktılav, BSc Student

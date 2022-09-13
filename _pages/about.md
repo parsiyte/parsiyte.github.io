@@ -23,6 +23,12 @@ We are always looking for motivated students interested in related topics. Pleas
 Recent News
 ------
 
+- **[08/09/22]** Işıl gave a talk titled "Trusted Execution Inside Secure Enclaves" in the [ELISA summit](https://events.linuxfoundation.org/elisa-summit/) about her [Linux Foundation mentorship](https://lfx.linuxfoundation.org/tools/mentorship/).
+
+- **[23/08/22]** Our project titled "Efficient Community Detection in Biological Networks" has been accepted within the scope of the [European High Performance Computing Joint Undertaking (EuroHPC JU) Benchmark And Development Access Calls](https://prace-ri.eu/hpc-access/eurohpc-access/eurohpc-ju-benchmark-and-development-access-calls/). Our team will have access to GPU resources of [HPC Vega supercomputer](https://doc.vega.izum.si/).
+
+- **[25/07/22]** Işıl has been invited to the Technical Program Committee (TPC) of the Design, Automation and Test in Europe Conference ([DATE](https://www.date-conference.com/)) for topic E3 "Machine Learning Solutions for Embedded and Cyber-Physical Systems".
+
 - **[23/06/22]** Ercüment defended his MSc thesis successfully.
 
   <img src='/images/EK_defense.png' width="400" height="200">
