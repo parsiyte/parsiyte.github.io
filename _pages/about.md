@@ -23,6 +23,10 @@ We are always looking for motivated students interested in related topics. Pleas
 Recent News
 ------
 
+- **[26/09/22]** Burak and Emre attended [CERCIRAS (Connecting Education and Research Communities for an Innovative Resource Aware Society) Training School](https://www.cerciras.org/cerciras-training-school-2022/) in Split, Croatia.
+
+  <img src='/images/CERCIRAS2022TrainingSchool.jpeg' width="400" height="200">
+  
 - **[08/09/22]** Işıl gave a talk titled "Trusted Execution Inside Secure Enclaves" in the [ELISA summit](https://events.linuxfoundation.org/elisa-summit/) about her [Linux Foundation mentorship](https://lfx.linuxfoundation.org/tools/mentorship/).
 
 - **[23/08/22]** Our project titled "Efficient Community Detection in Biological Networks" has been accepted within the scope of the [European High Performance Computing Joint Undertaking (EuroHPC JU) Benchmark And Development Access Calls](https://prace-ri.eu/hpc-access/eurohpc-access/eurohpc-ju-benchmark-and-development-access-calls/). Our team will have access to GPU resources of [HPC Vega supercomputer](https://doc.vega.izum.si/).
