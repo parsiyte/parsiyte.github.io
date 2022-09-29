@@ -25,7 +25,7 @@ Recent News
 
 - **[26/09/22]** Burak and Emre attended [CERCIRAS (Connecting Education and Research Communities for an Innovative Resource Aware Society) Training School](https://www.cerciras.org/cerciras-training-school-2022/) in Split, Croatia.
 
-  <img src='/images/CERCIRAS2022TrainingSchool.jpeg' width="400" height="200">
+  <img src='/images/CERCIRAS2022TrainingSchool.jpg' width="400" height="200">
   
 - **[08/09/22]** Işıl gave a talk titled "Trusted Execution Inside Secure Enclaves" in the [ELISA summit](https://events.linuxfoundation.org/elisa-summit/) about her [Linux Foundation mentorship](https://lfx.linuxfoundation.org/tools/mentorship/).
 
