@@ -44,7 +44,7 @@ Graduate Students
  
  Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs
  
-Graduate Students
+Undergraduate Students
 ---
 
 - **Cem Kağan Kayılı**<br/><br/>

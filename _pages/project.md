@@ -5,7 +5,7 @@ permalink: /project/
 author_profile: true
 ---
 
-
+- RAPPROX - Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 2519 – COST Working Group Program) - 2023/2025.
 
 - Efficient Community Detection in Biological Networks - EuroHPC JU Benchmark And Development Access - 2022/2023.
 
