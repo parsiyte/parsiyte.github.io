@@ -14,8 +14,8 @@ Faculty
 Graduate Students
 ---
 
-- **Serhat Caner**<br/><br/>
-<img src='/images/bio-photo.jpg' width="180" height="200">
+- **[Serhat Caner](https://www.linkedin.com/in/serhatcaner/)**<br/><br/>
+<img src='/images/ra_serhat_caner.png' width="180" height="200">
  PhD Student<br/>
  
  Thesis Title: Task Scheduling in Cloud Environments
