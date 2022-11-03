@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/parsiyte.png' width="600" height="300">
+<img src='/images/parsiyte.png' width="600" height="200">
 
 PARS (Parallel Systems) Research Group is led by Assistant Professor Işıl Öz. We are part of [Computer Engineering Department](https://ceng.iyte.edu.tr) at [IZTECH](https://www.iyte.edu.tr).
 
@@ -24,7 +24,7 @@ We are always looking for motivated students interested in related topics. Pleas
 Recent News
 ------
 
-- **[17/10/22]** Our TÜBİTAK 2519 project titled "RAPPROX – Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications" has been accepted within the scope of [CERCIRAS COST Action] (https://www.cerciras.org).
+- **[17/10/22]** Our TÜBİTAK 2519 project titled "RAPPROX – Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications" has been accepted within the scope of [CERCIRAS COST Action](https://www.cerciras.org).
 
 - **[26/09/22]** Burak and Emre attended [CERCIRAS (Connecting Education and Research Communities for an Innovative Resource Aware Society) Training School](https://www.cerciras.org/cerciras-training-school-2022/) in Split, Croatia.
 

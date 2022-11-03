@@ -44,6 +44,17 @@ Graduate Students
  
  Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs
  
+Graduate Students
+---
+
+- **Cem Kağan Kayılı**<br/><br/>
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ 3rd year Student<br/>
+ 
+ - **Matin Huseynzade**<br/><br/>
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ 3rd year Student<br/>
+ 
 Alumni
 ---
 
