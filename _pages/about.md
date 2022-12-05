@@ -23,6 +23,7 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[06/11/22]** Burak's paper, titled "[Soft error vulnerability prediction of GPGPU applications](https://link.springer.com/article/10.1007/s11227-022-04933-2)," has been accepted for publication in [The Journal of Supercomputing](https://www.springer.com/journal/11227). 
 
 - **[17/10/22]** Our TÜBİTAK 2519 project titled "RAPPROX – Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications" has been accepted within the scope of [CERCIRAS COST Action](https://www.cerciras.org).
 
