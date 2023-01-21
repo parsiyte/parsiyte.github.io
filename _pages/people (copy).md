@@ -32,12 +32,28 @@ Graduate Students
  
  Thesis Title: Accelerating Community Detection on GPUs
 
+- **Olgu Erten**<br/><br/>
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ MSc Student<br/>
+ 
+ Thesis Title: Approximate Computing on Embedded Systems
+ 
 - **Yağızcan Sezgin**<br/><br/>
 <img src='/images/bio-photo.jpg' width="180" height="200">
  MSc Student<br/>
  
  Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs
  
+Undergraduate Students
+---
+
+- **Cem Kağan Kayılı**<br/><br/>
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ 3rd year Student<br/>
+ 
+ - **Matin Huseynzade**<br/><br/>
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ 3rd year Student<br/>
  
 Alumni
 ---

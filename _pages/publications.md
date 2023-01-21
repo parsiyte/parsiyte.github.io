@@ -7,6 +7,7 @@ author_profile: true
 
 Journal Papers
 ---
+- **[Soft error vulnerability prediction of GPGPU applications](https://link.springer.com/article/10.1007/s11227-022-04933-2)**, Burak Topçu, Işıl Öz, The Journal of Supercomputing, Accepted.
 - **[Performance and accuracy predictions of approximation methods for shortest-path algorithms on GPUs](https://www.sciencedirect.com/science/article/abs/pii/S0167819122000400)**, Busenur Aktılav, Işıl Öz, Parallel Computing, 112, 2022.
 - **[Regional soft error vulnerability and error propagation analysis for GPGPU applications](https://link.springer.com/article/10.1007/s11227-021-04026-6)**, Işıl Öz, Ömer Faruk Karadaş, The Journal of Supercomputing, 78, 4095–4130, 2022.
 - **[Predicting the Soft Error Vulnerability of Parallel Applications Using Machine Learning](https://link.springer.com/article/10.1007/s10766-021-00707-0)**, Işıl Öz, Sanem Arslan, International Journal of Parallel Programming, 49, 410–439, 2021.

@@ -12,4 +12,6 @@ author_profile: true
 
 [CENG444 - Parallel Programming Patterns](https://ceng.iyte.edu.tr/courses/ceng-444/)
 
+[CENG513 - Compiler Design and Construction](https://ceng.iyte.edu.tr/courses/ceng-513/)
+
 [CENG524 - Advanced Computer Architecture](https://ceng.iyte.edu.tr/courses/ceng-524/)
