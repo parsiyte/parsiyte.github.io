@@ -7,7 +7,8 @@ author_profile: true
 
 Journal Papers
 ---
-- **[Soft error vulnerability prediction of GPGPU applications](https://link.springer.com/article/10.1007/s11227-022-04933-2)**, Burak Topçu, Işıl Öz, The Journal of Supercomputing, Accepted.
+- **[Teaching Accelerated Computing and Deep Learning at a Large-Scale with the NVIDIA Deep Learning Institute](https://doi.org/10.22369/issn.2153-4136/14/1/4)**, Bálint Gyires-Tóth, Işıl Öz, Joe Bungo, Journal of Computational Science, 14(1), 2023.
+- **[Soft error vulnerability prediction of GPGPU applications](https://link.springer.com/article/10.1007/s11227-022-04933-2)**, Burak Topçu, Işıl Öz, The Journal of Supercomputing, 79(6), 6965-6990, 2023.
 - **[Performance and accuracy predictions of approximation methods for shortest-path algorithms on GPUs](https://www.sciencedirect.com/science/article/abs/pii/S0167819122000400)**, Busenur Aktılav, Işıl Öz, Parallel Computing, 112, 2022.
 - **[Regional soft error vulnerability and error propagation analysis for GPGPU applications](https://link.springer.com/article/10.1007/s11227-021-04026-6)**, Işıl Öz, Ömer Faruk Karadaş, The Journal of Supercomputing, 78, 4095–4130, 2022.
 - **[Predicting the Soft Error Vulnerability of Parallel Applications Using Machine Learning](https://link.springer.com/article/10.1007/s10766-021-00707-0)**, Işıl Öz, Sanem Arslan, International Journal of Parallel Programming, 49, 410–439, 2021.
@@ -19,6 +20,7 @@ Journal Papers
 
 Conference Papers
 ---
+- **[Adopting Heterogeneous Computing Modules: Experiences from a ToUCH Summer Workshop](https://ieeexplore.ieee.org/document/10027539/)**, David P. Bunde, Kishwar Ahmed, Sridevi Ayloo, Tisha Brown-Gaines, Joel Fuentes, Vishwesh Jatala, Ruth Kurniawati, Isil Öz, Apan Qasem, Philip J. Schielke, Mary C. Tedeschi, Thomas Y. Yeh, Workshop on Education for High Performance Computing (EduHPC)@ International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2022.
 - **[Predicting the Soft Error Vulnerability of GPGPU Applications](https://ieeexplore.ieee.org/document/9756720)**, Burak Topçu, Işıl Öz, Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP), 2022.
 - **[Performance Evaluation of CUDA Optimizations for Convolution Operations](https://indico.truba.gov.tr/event/50/attachments/231/457/BASARIM2022_Proceedings.pdf)**, Burak Topçu, Işıl Öz, Ulusal Yüksek Başarımlı Hesaplama Konferansı (BAŞARIM), 2022.
 - **[Evaluating Performance and Reliability of Selective Redundant Multithreading for GPGPU Applications](http://ceur-ws.org/Vol-3145/paper01.pdf)**, Ercüment Kaya, Ömer Faruk Karadaş, Işıl Öz, Workshop on Connecting Education and Research Communities for an Innovative Resource Aware Society, COST Action CA19135 (CERCIRAS), 2021.

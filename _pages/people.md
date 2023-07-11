@@ -20,6 +20,10 @@ Graduate Students
  
  Thesis Title: Task Scheduling in Cloud Environments
  
+- **Nuri Furkan Pala**<br/><br/>
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ PhD Student<br/>
+ 
 - **[Burak Topçu](https://tr.linkedin.com/in/burak-topcu)**<br/><br/>
 <img src='/images/burak_topcu.png' width="180" height="200">
  MSc Student<br/>
@@ -38,10 +42,20 @@ Graduate Students
  
  Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs
  
+Undergraduate Students
+---
+
+- **Gökay Gülsoy**
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ BSc Student<br/>
+
+- **Kürşat Çağrı Yakıcı**
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ BSc Student<br/>
  
 Alumni
 ---
 
-- Ercüment Kaya, MSc Student, Thesis Title: Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units
-- Ömer Faruk Karadaş, BSc Student
-- Busenur Aktılav, BSc Student
+- Ercüment Kaya, MSc Student, Thesis Title: Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units, Current Position: High-Performance Computing Software Engineer, Leibniz Supercomputing Centre
+- Ömer Faruk Karadaş, BSc Student, Current Position: Automation Engineer, Airties
+- Busenur Aktılav, BSc Student, Current Position: MSc Student, Julius-Maximilians-Universität Würzburg

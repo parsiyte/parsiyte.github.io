@@ -23,6 +23,11 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[10/07/23]** Burak defended his MSc thesis successfully. 
+
+  <img src='/images/BT_defense.jpeg' width="400" height="200">
+
+
 - **[16/01/23]** Işıl attended [HiPEAC conference](https://www.hipeac.net/2023/toulouse/) in Toulouse, France.
 
   <img src='/images/20230117_192628.jpg' width="400" height="200">
