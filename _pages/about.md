@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/parsiyte.png' width="600" height="200">
+<img src='/images/parsiyte.jpeg' width="600" height="200">
 
 PARS (Parallel Systems) Research Group is led by Assistant Professor Işıl Öz. We are part of [Computer Engineering Department](https://ceng.iyte.edu.tr) at [IZTECH](https://www.iyte.edu.tr).
 
