@@ -20,7 +20,7 @@ Graduate Students
  
  Thesis Title: Task Scheduling in Cloud Environments
  
-- **Nuri Furkan Pala](https://www.linkedin.com/in/nurifurkanpala/)**<br/><br/>
+- **[Nuri Furkan Pala](https://www.linkedin.com/in/nurifurkanpala/)**<br/><br/>
 <img src='/images/bio-photo.jpg' width="180" height="200">
  PhD Student<br/>
  
@@ -50,6 +50,10 @@ Undergraduate Students
  BSc Student<br/>
 
 - **Kürşat Çağrı Yakıcı**<br/><br/>
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ BSc Student<br/>
+
+- **Deniz Karabacak**<br/><br/>
 <img src='/images/bio-photo.jpg' width="180" height="200">
  BSc Student<br/>
  
