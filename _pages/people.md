@@ -45,17 +45,17 @@ Graduate Students
 Undergraduate Students
 ---
 
-- **Gökay Gülsoy**
+- **Gökay Gülsoy**<br/><br/>
 <img src='/images/bio-photo.jpg' width="180" height="200">
  BSc Student<br/>
 
-- **Kürşat Çağrı Yakıcı**
+- **Kürşat Çağrı Yakıcı**<br/><br/>
 <img src='/images/bio-photo.jpg' width="180" height="200">
  BSc Student<br/>
  
 Alumni
 ---
 
-- Ercüment Kaya, MSc Student, Thesis Title: Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units, Current Position: High-Performance Computing Software Engineer, Leibniz Supercomputing Centre
+- Ercüment Kaya, MSc Student <br/> Thesis Title: Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units <br/> Current Position: High-Performance Computing Software Engineer, Leibniz Supercomputing Centre
 - Ömer Faruk Karadaş, BSc Student, Current Position: Automation Engineer, Airties
 - Busenur Aktılav, BSc Student, Current Position: MSc Student, Julius-Maximilians-Universität Würzburg
