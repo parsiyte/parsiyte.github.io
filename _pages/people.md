@@ -39,8 +39,8 @@ Graduate Students
 Undergraduate Students
 ---
 
-- **Gökay Gülsoy**<br/><br/>
-<img src='/images/bio-photo.jpg' width="180" height="200">
+- **[Gökay Gülsoy](https://www.linkedin.com/in/gokay-gulsoy-087a031b3)**<br/><br/>
+<img src='/images/gokay_gulsoy.png' width="180" height="200">
  BSc Student<br/>
 
 - **[Deniz Karabacak](https://www.linkedin.com/in/deniz-karabacak/)**<br/><br/>
