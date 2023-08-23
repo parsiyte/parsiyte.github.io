@@ -23,10 +23,13 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[01/08/23]** Işıl has been invited to the Technical Program Committee (TPC) of the Design, Automation and Test in Europe Conference ([DATE 2024](https://www.date-conference.com/call-for-papers)) for topic E3 “Machine Learning Solutions for Embedded and Cyber-Physical Systems”.
+
 - **[10/07/23]** Burak defended his MSc thesis successfully. 
 
   <img src='/images/BT_defense.jpeg' width="400" height="200">
 
+- **[25/05/23]** Işıl has been invited to the Program Committee (PC) of [EduHPC23 workshop](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc23) co-located with [SC23](https://sc23.supercomputing.org/).
 
 - **[16/01/23]** Işıl attended [HiPEAC conference](https://www.hipeac.net/2023/toulouse/) in Toulouse, France.
 
@@ -44,7 +47,7 @@ Recent News
 
 - **[23/08/22]** Our project titled "Efficient Community Detection in Biological Networks" has been accepted within the scope of the [European High Performance Computing Joint Undertaking (EuroHPC JU) Benchmark And Development Access Calls](https://prace-ri.eu/hpc-access/eurohpc-access/eurohpc-ju-benchmark-and-development-access-calls/). Our team will have access to GPU resources of [HPC Vega supercomputer](https://doc.vega.izum.si/).
 
-- **[25/07/22]** Işıl has been invited to the Technical Program Committee (TPC) of the Design, Automation and Test in Europe Conference ([DATE](https://www.date-conference.com/)) for topic E3 "Machine Learning Solutions for Embedded and Cyber-Physical Systems".
+- **[25/07/22]** Işıl has been invited to the Technical Program Committee (TPC) of the Design, Automation and Test in Europe Conference ([DATE 2023](https://www.date-conference.com/)) for topic E3 "Machine Learning Solutions for Embedded and Cyber-Physical Systems".
 
 - **[23/06/22]** Ercüment defended his MSc thesis successfully.
 

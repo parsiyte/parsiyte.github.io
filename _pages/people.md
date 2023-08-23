@@ -24,12 +24,6 @@ Graduate Students
 <img src='/images/bio-photo.jpg' width="180" height="200">
  PhD Student<br/>
  
-- **[Burak Topçu](https://tr.linkedin.com/in/burak-topcu)**<br/><br/>
-<img src='/images/burak_topcu.png' width="180" height="200">
- MSc Student<br/>
- 
- Thesis Title: Approximate Computing Techniques for GPUs
-
 - **[Emre Dinçer](https://www.linkedin.com/in/emredncr)**<br/><br/>
 <img src='/images/emre_dincer.jpeg' width="180" height="200">
  MSc Student<br/>
@@ -49,17 +43,13 @@ Undergraduate Students
 <img src='/images/bio-photo.jpg' width="180" height="200">
  BSc Student<br/>
 
-- **Kürşat Çağrı Yakıcı**<br/><br/>
-<img src='/images/bio-photo.jpg' width="180" height="200">
- BSc Student<br/>
-
-- **Deniz Karabacak**<br/><br/>
-<img src='/images/bio-photo.jpg' width="180" height="200">
+- **[Deniz Karabacak](https://www.linkedin.com/in/deniz-karabacak/)**<br/><br/>
+<img src='/images/deniz_karabacak.png' width="180" height="200">
  BSc Student<br/>
  
 Alumni
 ---
-
-- Ercüment Kaya, MSc Student <br/> Thesis Title: Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units <br/> Current Position: High-Performance Computing Software Engineer, Leibniz Supercomputing Centre
-- Ömer Faruk Karadaş, BSc Student <br/> Current Position: Automation Engineer, Airties
-- Busenur Aktılav, BSc Student <br/> Current Position: MSc Student, Julius-Maximilians-Universität Würzburg
+- **[Burak Topçu](https://tr.linkedin.com/in/burak-topcu)** - MSc Student <br/> Thesis Title: Evaluating Impacts of Micro-Architectural Metrics on Error Resilience and Performance of General Purpose GPU Applications <br/> Current Position: PhD Student, Penn State University
+- **[Ercüment Kaya](https://www.linkedin.com/in/ercumentkaya)** - MSc Student <br/> Thesis Title: [Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units](https://gcris2.iyte.edu.tr/handle/11147/12697) <br/> Current Position: High-Performance Computing Software Engineer, Leibniz Supercomputing Centre
+- **[Ömer Faruk Karadaş](https://www.linkedin.com/in/faruk-o-karadas)** - BSc Student <br/> Current Position: Automation Engineer, Airties
+- **[Busenur Aktılav](https://www.linkedin.com/in/busenur-aktilav-a46454176)** - BSc Student <br/> Current Position: MSc Student, Julius-Maximilians-Universität Würzburg
