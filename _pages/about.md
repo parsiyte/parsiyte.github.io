@@ -23,6 +23,16 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[20/09/23]** We are organizing [HiPEAC Reproducibility Student Challenge](https://www.hipeac.net/news/7032/still-time-to-participate-in-the-hipeac-reproducibility-student-challenge-next-steps/), which will take place in Munich at the HiPEAC conference on 18 January 2024. Undergraduate or graduate students are strongly encouraged to join.
+
+  <img src='/images/Student_Challenge_2023.png' width="400" height="200">
+ 
+- **[18/09/23]** Our project titled "Heterogeneous Parallel Programming Course with Hands-on Experience" has been accepted within the scope of the [NVIDIA-BTF Disaster Response Innovation and Education Grant](https://www.linkedin.com/posts/nvidia-ai_nvidia-and-bridge-to-turkiye-fund-are-committed-activity-7072542809286721536-jYk6/). NVIDIA donates Jetson Nano Developer kits and financial support to develop a real-time object detection application for a disaster relief situation in our [Heterogeneous Parallel Programming](https://ceng.iyte.edu.tr/courses/ceng-443/) course.
+
+- **[10/09/23]** Serhat, Furkan and Emre attended [CERCIRAS (Connecting Education and Research Communities for an Innovative Resource Aware Society) Training School](https://www.cerciras.org/cerciras-training-school-2023/) in Riga, Latvia.
+
+  <img src='/images/letonya.jpeg' width="400" height="200">
+  
 - **[01/08/23]** Işıl has been invited to the Technical Program Committee (TPC) of the Design, Automation and Test in Europe Conference ([DATE 2024](https://www.date-conference.com/call-for-papers)) for topic E3 “Machine Learning Solutions for Embedded and Cyber-Physical Systems”.
 
 - **[10/07/23]** Burak defended his MSc thesis successfully. 

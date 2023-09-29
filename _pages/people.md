@@ -35,6 +35,12 @@ Graduate Students
  MSc Student<br/>
  
  Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs
+
+- **Mert Emre Demirel**<br/><br/>
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ MSc Student<br/>
+ 
+ Thesis Title: Scheduling Options for Task-Parallel Programs
  
 Undergraduate Students
 ---
