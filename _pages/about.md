@@ -23,6 +23,12 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[08/12/23]** Yağız and Emre defended their MSc thesis successfully. 
+
+  <img src='/images/yagiz_thesis.png' width="400" height="200">
+  
+  <img src='/images/emre_thesis.png' width="400" height="200">
+
 - **[20/09/23]** We are organizing [HiPEAC Reproducibility Student Challenge](https://www.hipeac.net/news/7032/still-time-to-participate-in-the-hipeac-reproducibility-student-challenge-next-steps/), which will take place in Munich at the HiPEAC conference on 18 January 2024. Undergraduate or graduate students are strongly encouraged to join.
 
   <img src='/images/Student_Challenge_2023.png' width="400" height="200">
