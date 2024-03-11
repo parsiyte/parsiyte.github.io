@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<img src='/images/parsiyte.jpeg' width="600" height="200">
 
 PARS (Parallel Systems) Research Group is led by Assistant Professor Işıl Öz. We are part of [Computer Engineering Department](https://ceng.iyte.edu.tr) at [IZTECH](https://www.iyte.edu.tr).
 
@@ -23,14 +23,6 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
-- **[06/02/24]** Işıl joined [CA22137 - Randomised Optimisation Algorithms Research Network (ROAR-NET)](https://www.cost.eu/actions/CA22137/) COST Action as a working group member.
-
-- **[20/01/24]** Işıl attended [HiPEAC conference](https://www.hipeac.net/2024/munich/) in Munich, Germany. She gave a talk at [Reproducibility Student Challenge](https://www.hipeac.net/2024/munich/#/program/sessions/8098/) and chaired [Code Generation](https://www.hipeac.net/2024/munich/#/program/sessions/8140/) session in the paper track.
-
-  <img src='/images/DSC02108.jpg' width="400" height="200">
-  
-  <img src='/images/DSC03190.jpg' width="400" height="200">
-
 - **[08/12/23]** Yağız and Emre defended their MSc thesis successfully. 
 
   <img src='/images/yagiz_thesis.png' width="400" height="200">
