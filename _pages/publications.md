@@ -7,6 +7,7 @@ author_profile: true
 
 Journal Papers
 ---
+- **[Compiler-Managed Replication of CUDA Kernels for Reliable Execution of GPGPU Applications](https://www.worldscientific.com/doi/10.1142/S0218126624502542)**, Ercüment Kaya, Işıl Öz, Journal of Circuits, Systems, and Computers, Accepted, 2024.
 - **[Teaching Accelerated Computing and Deep Learning at a Large-Scale with the NVIDIA Deep Learning Institute](https://doi.org/10.22369/issn.2153-4136/14/1/4)**, Bálint Gyires-Tóth, Işıl Öz, Joe Bungo, Journal of Computational Science Education, 14(1), 2023.
 - **[Soft error vulnerability prediction of GPGPU applications](https://link.springer.com/article/10.1007/s11227-022-04933-2)**, Burak Topçu, Işıl Öz, The Journal of Supercomputing, 79(6), 6965-6990, 2023.
 - **[Performance and accuracy predictions of approximation methods for shortest-path algorithms on GPUs](https://www.sciencedirect.com/science/article/abs/pii/S0167819122000400)**, Busenur Aktılav, Işıl Öz, Parallel Computing, 112, 2022.

@@ -23,6 +23,8 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[07/03/24]** Ercüment's paper, titled "[Compiler-Managed Replication of CUDA Kernels for Reliable Execution of GPGPU Applications](https://www.worldscientific.com/doi/10.1142/S0218126624502542)," has been accepted for publication in [Journal of Circuits, Systems, and Computers](https://www.worldscientific.com/worldscinet/jcsc). 
+
 - **[06/02/24]** Işıl joined [CA22137 - Randomised Optimisation Algorithms Research Network (ROAR-NET)](https://www.cost.eu/actions/CA22137/) COST Action as a working group member.
 
 - **[20/01/24]** Işıl attended [HiPEAC conference](https://www.hipeac.net/2024/munich/) in Munich, Germany. She gave a talk at [Reproducibility Student Challenge](https://www.hipeac.net/2024/munich/#/program/sessions/8098/) and chaired [Code Generation](https://www.hipeac.net/2024/munich/#/program/sessions/8140/) session in the paper track.

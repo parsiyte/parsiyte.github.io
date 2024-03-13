@@ -38,9 +38,12 @@ Undergraduate Students
  
 Alumni
 ---
+
+https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=a0OMTmEd_3mfOBxT8SiBTK0nnW97ZbFIqRsQeaQ7cq-Te2tLpK7FfTftKQ_rV8a0
+
 - **[Yağızcan Sezgin](https://www.linkedin.com/in/yagizcansezgin)** - MSc Student <br/> Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs <br/> 
 - **[Emre Dinçer](https://tr.linkedin.com/in/emredncr)** - MSc Student <br/> Thesis Title: Community Detection on GPU: A Comprehensive Analysis, Unified Memory Enhancement, and Memory Access Optimization <br/> 
-- **[Burak Topçu](https://tr.linkedin.com/in/burak-topcu)** - MSc Student <br/> Thesis Title: Evaluating Impacts of Micro-Architectural Metrics on Error Resilience and Performance of General Purpose GPU Applications <br/> Current Position: PhD Student, Penn State University
-- **[Ercüment Kaya](https://www.linkedin.com/in/ercumentkaya)** - MSc Student <br/> Thesis Title: [Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units](https://gcris2.iyte.edu.tr/handle/11147/12697) <br/> Current Position: High-Performance Computing Software Engineer, Leibniz Supercomputing Centre
+- **[Burak Topçu](https://tr.linkedin.com/in/burak-topcu)** - MSc Student <br/> Thesis Title: [Evaluating Impacts of Micro-Architectural Metrics on Error Resilience and Performance of General Purpose GPU Applications](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=a0OMTmEd_3mfOBxT8SiBTK0nnW97ZbFIqRsQeaQ7cq-Te2tLpK7FfTftKQ_rV8a0) <br/> Current Position: PhD Student, Penn State University
+- **[Ercüment Kaya](https://www.linkedin.com/in/ercumentkaya)** - MSc Student <br/> Thesis Title: [Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=RsTBl6RWK25OBMIKtIgYYXCykG9mWkBZhM_zfSdHpUhYy85ejbrn2xpadZlv-lkx) <br/> Current Position: High-Performance Computing Software Engineer, Leibniz Supercomputing Centre
 - **[Ömer Faruk Karadaş](https://www.linkedin.com/in/faruk-o-karadas)** - BSc Student <br/> Current Position: Automation Engineer, Airties
 - **[Busenur Aktılav](https://www.linkedin.com/in/busenur-aktilav-a46454176)** - BSc Student <br/> Current Position: MSc Student, Julius-Maximilians-Universität Würzburg

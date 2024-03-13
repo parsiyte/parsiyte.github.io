@@ -5,6 +5,8 @@ permalink: /project/
 author_profile: true
 ---
 
+- Heterogeneous Parallel Programming Course with Hands-on Experience (NVIDIA-BTF Disaster Response Innovation and Education Grant) - 2023/2025.
+
 - RAPPROX - Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 2519 – COST Working Group Program) - 2023/2025.
 
 - Efficient Community Detection in Biological Networks - EuroHPC JU Benchmark And Development Access - 2022/2023.
