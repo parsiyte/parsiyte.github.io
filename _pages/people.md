@@ -39,7 +39,6 @@ Undergraduate Students
 Alumni
 ---
 
-https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=a0OMTmEd_3mfOBxT8SiBTK0nnW97ZbFIqRsQeaQ7cq-Te2tLpK7FfTftKQ_rV8a0
 
 - **[Yağızcan Sezgin](https://www.linkedin.com/in/yagizcansezgin)** - MSc Student <br/> Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs <br/> 
 - **[Emre Dinçer](https://tr.linkedin.com/in/emredncr)** - MSc Student <br/> Thesis Title: Community Detection on GPU: A Comprehensive Analysis, Unified Memory Enhancement, and Memory Access Optimization <br/> 
