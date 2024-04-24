@@ -23,6 +23,10 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[17/04/24]** Yağız's paper, titled "Performance-Reliability Tradeoff Analysis for Safety-Critical Embedded Systems with GPUs" has been accepted for presentation in [BAŞARIM conference](https://indico.truba.gov.tr/event/140/). 
+
+- **[28/03/24]** Işıl has been certified to teach [Scaling CUDA C++ Applications to Multiple Nodes](https://www.nvidia.com/en-eu/training/instructor-led-workshops/cuda-multinode/) as [NVIDIA Deep Learning Institute (DLI) Certified Instructor](https://developer.nvidia.com/dli/cip).
+ 
 - **[07/03/24]** Ercüment's paper, titled "[Compiler-Managed Replication of CUDA Kernels for Reliable Execution of GPGPU Applications](https://www.worldscientific.com/doi/10.1142/S0218126624502542)," has been accepted for publication in [Journal of Circuits, Systems, and Computers](https://www.worldscientific.com/worldscinet/jcsc). 
 
 - **[06/02/24]** Işıl joined [CA22137 - Randomised Optimisation Algorithms Research Network (ROAR-NET)](https://www.cost.eu/actions/CA22137/) COST Action as a working group member.

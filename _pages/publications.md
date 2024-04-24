@@ -21,7 +21,8 @@ Journal Papers
 
 Conference Papers
 ---
-- **[GPPRMon: GPU Runtime Memory Performance and Power Monitoring Tool](https://2023.euro-par.org/conference/workshops-minisymposia/)**, Burak Topçu, Işıl Öz, Workshop on Resource AWareness of Systems and Society (RAW), co-located with International European Conference on Parallel and Distributed Computing (Euro-Par), 2023.
+- **[Performance-Reliability Tradeoff Analysis for Safety-Critical Embedded Systems with GPUs](https://indico.truba.gov.tr/event/140/)**, Yağızcan Sezgin, Işıl Öz, Ulusal Yüksek Başarımlı Hesaplama Konferansı (BAŞARIM), 2024.
+- **[GPPRMon: GPU Runtime Memory Performance and Power Monitoring Tool](https://link.springer.com/chapter/10.1007/978-3-031-48803-0_2)**, Burak Topçu, Işıl Öz, Workshop on Resource AWareness of Systems and Society (RAW), co-located with International European Conference on Parallel and Distributed Computing (Euro-Par), 2023.
 - **[Adopting Heterogeneous Computing Modules: Experiences from a ToUCH Summer Workshop](https://ieeexplore.ieee.org/document/10027539/)**, David P. Bunde, Kishwar Ahmed, Sridevi Ayloo, Tisha Brown-Gaines, Joel Fuentes, Vishwesh Jatala, Ruth Kurniawati, Isil Öz, Apan Qasem, Philip J. Schielke, Mary C. Tedeschi, Thomas Y. Yeh, Workshop on Education for High Performance Computing (EduHPC)@ International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2022.
 - **[Predicting the Soft Error Vulnerability of GPGPU Applications](https://ieeexplore.ieee.org/document/9756720)**, Burak Topçu, Işıl Öz, Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP), 2022.
 - **[Performance Evaluation of CUDA Optimizations for Convolution Operations](https://indico.truba.gov.tr/event/50/attachments/231/457/BASARIM2022_Proceedings.pdf)**, Burak Topçu, Işıl Öz, Ulusal Yüksek Başarımlı Hesaplama Konferansı (BAŞARIM), 2022.

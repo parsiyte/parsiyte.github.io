@@ -19,18 +19,9 @@ Graduate Students
 <img src='/images/bio-photo.jpg' width="180" height="200">
  PhD Student<br/>
  
-- **Mert Emre Demirel**<br/><br/>
-<img src='/images/bio-photo.jpg' width="180" height="200">
- MSc Student<br/>
- 
- Thesis Title: Scheduling Options for Task-Parallel Programs
- 
+
 Undergraduate Students
 ---
-
-- **[Gökay Gülsoy](https://www.linkedin.com/in/gokay-gulsoy-087a031b3)**<br/><br/>
-<img src='/images/gokay_gulsoy.png' width="180" height="200">
- BSc Student<br/>
 
 - **[Deniz Karabacak](https://www.linkedin.com/in/deniz-karabacak/)**<br/><br/>
 <img src='/images/deniz_karabacak.png' width="180" height="200">
