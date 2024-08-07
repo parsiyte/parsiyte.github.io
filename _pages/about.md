@@ -23,6 +23,20 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+
+- **[10/07/24]** Işıl attended [PUMPS+AI ACM Europe Summer School](https://pumps.bsc.es/2024/) in Barcelona, Spain, in the context of Erasmus Staff Training Mobility. She attended the lectures and presented our project poster titled "RAPPROX - Resource-Aware Compiler Design for Approximate Computing Techniques in GPGPUs" in the poster session.
+
+  <img src='/images/pumps2.jpeg' width="400" height="200">
+  
+  <img src='/images/pumps.jpeg' width="400" height="200">
+  <img src='/images/bsc.jpeg' width="400" height="200">
+
+- **[04/07/24]** Işıl attended [CERCIRAS Closing Conference](https://www.cerciras.org/action-events/cerciras-closing-conference/) in Maribor, Slovenia. In the [3rd workshop on Resource AWareness of Systems and Society (RAW 2024)](https://www.cerciras.org/action-events/raw-2024/), she presented our paper titled "Evaluating CUDA-Aware Approximate Computing Techniques".
+
+  <img src='/images/maribor.jpeg' width="400" height="200">
+  
+- **[22/05/24]** Our project titled "Efficient Graph Neural Networks" has been accepted within the scope of the [European High Performance Computing Joint Undertaking (EuroHPC JU) Benchmark And Development Access Calls](https://prace-ri.eu/hpc-access/eurohpc-access/eurohpc-ju-benchmark-and-development-access-calls/). Our team will have access to GPU resources of [LUMI supercomputer](https://docs.lumi-supercomputer.eu/hardware/lumig/).
+
 - **[17/04/24]** Yağız's paper, titled "Performance-Reliability Tradeoff Analysis for Safety-Critical Embedded Systems with GPUs" has been accepted for presentation in [BAŞARIM conference](https://indico.truba.gov.tr/event/140/). 
 
 - **[28/03/24]** Işıl has been certified to teach [Scaling CUDA C++ Applications to Multiple Nodes](https://www.nvidia.com/en-eu/training/instructor-led-workshops/cuda-multinode/) as [NVIDIA Deep Learning Institute (DLI) Certified Instructor](https://developer.nvidia.com/dli/cip).
