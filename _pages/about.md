@@ -27,9 +27,6 @@ Recent News
 - **[10/07/24]** Işıl attended [PUMPS+AI ACM Europe Summer School](https://pumps.bsc.es/2024/) in Barcelona, Spain, in the context of Erasmus Staff Training Mobility. She attended the lectures and presented our project poster titled "RAPPROX - Resource-Aware Compiler Design for Approximate Computing Techniques in GPGPUs" in the poster session.
 
   <img src='/images/pumps2.jpeg' width="400" height="200">
-  
-  <img src='/images/pumps.jpeg' width="400" height="200">
-  <img src='/images/bsc.jpeg' width="400" height="200">
 
 - **[04/07/24]** Işıl attended [CERCIRAS Closing Conference](https://www.cerciras.org/action-events/cerciras-closing-conference/) in Maribor, Slovenia. In the [3rd workshop on Resource AWareness of Systems and Society (RAW 2024)](https://www.cerciras.org/action-events/raw-2024/), she presented our paper titled "Evaluating CUDA-Aware Approximate Computing Techniques".
 
