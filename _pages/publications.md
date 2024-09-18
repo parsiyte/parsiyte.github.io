@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers
 ---
-- **[Compiler-Managed Replication of CUDA Kernels for Reliable Execution of GPGPU Applications](https://www.worldscientific.com/doi/10.1142/S0218126624502542)**, Ercüment Kaya, Işıl Öz, Journal of Circuits, Systems, and Computers, Accepted, 2024.
+- **[Compiler-Managed Replication of CUDA Kernels for Reliable Execution of GPGPU Applications](https://www.worldscientific.com/doi/10.1142/S0218126624502542)**, Ercüment Kaya, Işıl Öz, Journal of Circuits, Systems, and Computers, 33(14), 2450254:1-2450254:33, 2024.
 - **[Teaching Accelerated Computing and Deep Learning at a Large-Scale with the NVIDIA Deep Learning Institute](https://doi.org/10.22369/issn.2153-4136/14/1/4)**, Bálint Gyires-Tóth, Işıl Öz, Joe Bungo, Journal of Computational Science Education, 14(1), 2023.
 - **[Soft error vulnerability prediction of GPGPU applications](https://link.springer.com/article/10.1007/s11227-022-04933-2)**, Burak Topçu, Işıl Öz, The Journal of Supercomputing, 79(6), 6965-6990, 2023.
 - **[Performance and accuracy predictions of approximation methods for shortest-path algorithms on GPUs](https://www.sciencedirect.com/science/article/abs/pii/S0167819122000400)**, Busenur Aktılav, Işıl Öz, Parallel Computing, 112, 2022.
@@ -21,6 +21,7 @@ Journal Papers
 
 Conference Papers
 ---
+- **[Community Detection for Large Graphs on GPUs with Unified Memory](https://ieee-hpec.org/index.php/ieee-hpec-2024-prelim-agenda/)**, Emre Dinçer, Işıl Öz, IEEE High Performance Extreme Computing Virtual Conference (HPEC), 2024.
 - **[Performance-Reliability Tradeoff Analysis for Safety-Critical Embedded Systems with GPUs](https://indico.truba.gov.tr/event/140/)**, Yağızcan Sezgin, Işıl Öz, Ulusal Yüksek Başarımlı Hesaplama Konferansı (BAŞARIM), 2024.
 - **[GPPRMon: GPU Runtime Memory Performance and Power Monitoring Tool](https://link.springer.com/chapter/10.1007/978-3-031-48803-0_2)**, Burak Topçu, Işıl Öz, Workshop on Resource AWareness of Systems and Society (RAW), co-located with International European Conference on Parallel and Distributed Computing (Euro-Par), 2023.
 - **[Adopting Heterogeneous Computing Modules: Experiences from a ToUCH Summer Workshop](https://ieeexplore.ieee.org/document/10027539/)**, David P. Bunde, Kishwar Ahmed, Sridevi Ayloo, Tisha Brown-Gaines, Joel Fuentes, Vishwesh Jatala, Ruth Kurniawati, Isil Öz, Apan Qasem, Philip J. Schielke, Mary C. Tedeschi, Thomas Y. Yeh, Workshop on Education for High Performance Computing (EduHPC)@ International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2022.

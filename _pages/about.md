@@ -24,6 +24,14 @@ We are always looking for motivated students interested in related topics. Pleas
 Recent News
 ------
 
+- **[11/09/24]** Işıl attended [ROAR-NET (Randomised Optimisation Algorithms Research Network)](https://roar-net.eu/) Working Group-1 meeting in Wuppertal, Germany.
+
+  <img src='/images/Wuppertal.jpg' width="400" height="200">
+  
+- **[01/09/24]** Furkan attended [CERCIRAS Training School](https://www.cerciras.org/cerciras-training-school-2024/) in Klagenfurt, Austria.
+
+  <img src='/images/Klagenfurt2.jpg' width="400" height="200">
+  
 - **[10/07/24]** Işıl attended [PUMPS+AI ACM Europe Summer School](https://pumps.bsc.es/2024/) in Barcelona, Spain, in the context of Erasmus Staff Training Mobility. She attended the lectures and presented our project poster titled "RAPPROX - Resource-Aware Compiler Design for Approximate Computing Techniques in GPGPUs" in the poster session.
 
   <img src='/images/pumps2.jpeg' width="400" height="200">
