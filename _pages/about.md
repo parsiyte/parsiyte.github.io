@@ -24,6 +24,8 @@ We are always looking for motivated students interested in related topics. Pleas
 Recent News
 ------
 
+- **[25/09/24]** Emre presented our paper, titled "Community Detection for Large Graphs on GPUs with Unified Memory" in [IEEE High Performance Extreme Computing Conference (HPEC)](https://ieee-hpec.org/index.php/ieee-hpec-2024-prelim-agenda/).
+
 - **[11/09/24]** Işıl attended [ROAR-NET (Randomised Optimisation Algorithms Research Network)](https://roar-net.eu/) Working Group-1 meeting in Wuppertal, Germany.
 
   <img src='/images/Wuppertal.jpg' width="400" height="200">

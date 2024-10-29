@@ -31,8 +31,8 @@ Alumni
 ---
 
 
-- **[Yağızcan Sezgin](https://www.linkedin.com/in/yagizcansezgin)** - MSc Student <br/> Thesis Title: Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs <br/> 
-- **[Emre Dinçer](https://tr.linkedin.com/in/emredncr)** - MSc Student <br/> Thesis Title: Community Detection on GPU: A Comprehensive Analysis, Unified Memory Enhancement, and Memory Access Optimization <br/> 
+- **[Yağızcan Sezgin](https://www.linkedin.com/in/yagizcansezgin)** - MSc Student <br/> Thesis Title: [Performance-Reliability Tradeoff Analysis for Safety-Critical Systems with GPUs](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=cr4SkWLaRMhkDRBjqthpse5cncOFe4xU_OE4Kk9vc-rpqUpSuO9ga5OxvY8vZ9Ej) <br/> 
+- **[Emre Dinçer](https://tr.linkedin.com/in/emredncr)** - MSc Student <br/> Thesis Title: [Community Detection on GPU: A Comprehensive Analysis, Unified Memory Enhancement, and Memory Access Optimization](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=cr4SkWLaRMhkDRBjqthpsbsuEafTVKrHvw_cczxhtRr0v2GyHaRzciYX8554i_C0) <br/> 
 - **[Burak Topçu](https://tr.linkedin.com/in/burak-topcu)** - MSc Student <br/> Thesis Title: [Evaluating Impacts of Micro-Architectural Metrics on Error Resilience and Performance of General Purpose GPU Applications](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=a0OMTmEd_3mfOBxT8SiBTK0nnW97ZbFIqRsQeaQ7cq-Te2tLpK7FfTftKQ_rV8a0) <br/> Current Position: PhD Student, Penn State University
 - **[Ercüment Kaya](https://www.linkedin.com/in/ercumentkaya)** - MSc Student <br/> Thesis Title: [Compiler-Managed Fault Tolerance Techniques for General Purpose Graphics Processing Units](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=RsTBl6RWK25OBMIKtIgYYXCykG9mWkBZhM_zfSdHpUhYy85ejbrn2xpadZlv-lkx) <br/> Current Position: High-Performance Computing Software Engineer, Leibniz Supercomputing Centre
 - **[Ömer Faruk Karadaş](https://www.linkedin.com/in/faruk-o-karadas)** - BSc Student <br/> Current Position: Automation Engineer, Airties
