@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Courses"
+title: "Activities"
 permalink: /activity/
 author_profile: true
 ---
