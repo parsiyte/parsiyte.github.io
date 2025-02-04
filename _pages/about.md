@@ -23,7 +23,14 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[21/01/25]** Rana and Deniz attended [HiPEAC conference](https://www.hipeac.net/2025/barcelona/) in Barcelona, Spain. At [Student Challange](https://www.hipeac.net/2025/barcelona/#/program/sessions/8182/) event, they presented their work, titled "Exploring Kernel Scheduling Efficiency: Comparative Analysis on Droplet Search Across Neural Networks and Hardware Platforms", which is part of their graduation project studying along with Umut.
 
+  <img src='/images/hipeac2025.jpeg' width="400" height="200">
+
+- **[17/01/25]** Deniz presented his graduation project poster, titled "Performance-Reliability Analysis for Safety-Critical Embedded Systems with GPUs", where he used Jetson Nano Developer kits, donated by NVIDIA-BTF grant.
+
+  <img src='/images/denizbitirme.jpeg' width="400" height="200">
+  
 - **[25/09/24]** Emre presented our paper, titled "Community Detection for Large Graphs on GPUs with Unified Memory" in [IEEE High Performance Extreme Computing Conference (HPEC)](https://ieee-hpec.org/index.php/ieee-hpec-2024-prelim-agenda/).
 
 - **[11/09/24]** Işıl attended [ROAR-NET (Randomised Optimisation Algorithms Research Network)](https://roar-net.eu/) Working Group-1 meeting in Wuppertal, Germany.
