@@ -23,7 +23,7 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
-- **[21/01/25]** Rana and Deniz attended [HiPEAC conference](https://www.hipeac.net/2025/barcelona/) in Barcelona, Spain. At [Student Challange](https://www.hipeac.net/2025/barcelona/#/program/sessions/8182/) event, they presented their work, titled "Exploring Kernel Scheduling Efficiency: Comparative Analysis on Droplet Search Across Neural Networks and Hardware Platforms", which is part of their graduation project studying along with Umut.
+- **[21/01/25]** Rana and Deniz attended [HiPEAC conference](https://www.hipeac.net/2025/barcelona/) in Barcelona, Spain. At [Student Challenge](https://www.hipeac.net/2025/barcelona/#/program/sessions/8182/) event, they presented their work, titled "Exploring Kernel Scheduling Efficiency: Comparative Analysis on Droplet Search Across Neural Networks and Hardware Platforms", which is part of their graduation project studying along Umut.
 
   <img src='/images/hipeac2025.jpeg' width="400" height="200">
 
