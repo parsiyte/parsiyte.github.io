@@ -29,7 +29,7 @@ Recent News
 
 - **[17/01/25]** Deniz presented his graduation project poster, titled "Performance-Reliability Analysis for Safety-Critical Embedded Systems with GPUs", where he used Jetson Nano Developer kits, donated by NVIDIA-BTF grant.
 
-  <img src='/images/denizbitirme.jpeg' width="400" height="200">
+  <img src='/images/denizbitirme.jpg' width="400" height="200">
   
 - **[25/09/24]** Emre presented our paper, titled "Community Detection for Large Graphs on GPUs with Unified Memory" in [IEEE High Performance Extreme Computing Conference (HPEC)](https://ieee-hpec.org/index.php/ieee-hpec-2024-prelim-agenda/).
 
