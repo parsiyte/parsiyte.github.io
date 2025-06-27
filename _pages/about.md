@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-PARS (Parallel Systems) Research Group is led by Assistant Professor Işıl Öz. We are part of [Computer Engineering Department](https://ceng.iyte.edu.tr) at [IZTECH](https://www.iyte.edu.tr).
+PARS (Parallel Systems) Research Group is led by Associate Professor Işıl Öz. We are part of [Computer Engineering Department](https://ceng.iyte.edu.tr) at [IZTECH](https://www.iyte.edu.tr).
 
 Our group focuses on various issues:
 
@@ -23,6 +23,20 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[27/06/25]** Işıl gave a talk titled "Evaluating Energy-Performance Trade-offs in Large Language Models" in the [MCAA Sustainability Working Group Meeting](https://www.mariecuriealumni.eu/groups/sustainability-working-group).
+
+- **[11/06/25]** We had a Watch Party in our department for the keynote by NVIDIA CEO Jensen Huang at [NVIDIA GTC](https://www.nvidia.com/en-eu/gtc/?regcode=so-link-831789&ncid=so-link-831789).
+
+  <img src='/images/keynote.png' width="400" height="200">
+  
+- **[04/06/25]** Işıl attended [International Parallel and Distributed Processing Symposium (IPDPS)](https://www.ipdps.org/) in Milan, Italy and presented our paper titled "[Teaching Accelerated Computing with Hands-on Experience](https://tcpp.cs.gsu.edu/curriculum/sites/default/files/2025072136.pdf)" in the [Workshop on Parallel and Distributed Computing Education (EduPar)](https://tcpp.cs.gsu.edu/curriculum/edupar25).
+
+  <img src='/images/ipdps25.jpg' width="400" height="200">
+
+- **[11/05/25]** Işıl has been invited to the Technical Program Committee (TPC) of the IEEE International Symposium on Workload Characterization ([IISWC 2025](https://iiswc.org/iiswc2025/)).
+
+- **[29/04/25]** Işıl has been certified to teach [Fundamentals of Accelerated Computing with Modern CUDA C++](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-AC-01+V2) as [NVIDIA Deep Learning Institute (DLI) Certified Instructor](https://developer.nvidia.com/dli/cip).
+ 
 - **[21/01/25]** Rana and Deniz attended [HiPEAC conference](https://www.hipeac.net/2025/barcelona/) in Barcelona, Spain. At [Student Challenge](https://www.hipeac.net/2025/barcelona/#/program/sessions/8182/) event, they presented their work, titled "Exploring Kernel Scheduling Efficiency: Comparative Analysis on Droplet Search Across Neural Networks and Hardware Platforms", which is part of their graduation project studying along Umut.
 
   <img src='/images/hipeac2025.jpeg' width="400" height="200">

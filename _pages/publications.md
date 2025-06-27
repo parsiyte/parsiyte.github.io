@@ -7,6 +7,8 @@ author_profile: true
 
 Journal Papers
 ---
+- **[Demystifying power and performance variations in GPU systems through microarchitectural analysis](https://www.comsis.org/archive.php?show=ppr17539)**, Burak Topçu, Deniz Karabacak, Işıl Öz, Computer Science and Information Systems, 22(2), 533-561, 2025.
+- **[Optimization of resource-aware parallel and distributed computing: a review](https://link.springer.com/article/10.1007/s11227-025-07295-7)**, Pawel Czarnul, Marcel Antal, Hamza Baniata, Dalvan Griebler, Attila Kertész, Christoph W. Kessler, Andreas Kouloumpris, Salko Kovacic, András Márkus, Maria K. Michael, Panagiota Nikolaou, Işıl Öz, Radu Prodan, Gordana Rakic,. Journal of Supercomputing, 81(7): 848 (2025).
 - **[Compiler-Managed Replication of CUDA Kernels for Reliable Execution of GPGPU Applications](https://www.worldscientific.com/doi/10.1142/S0218126624502542)**, Ercüment Kaya, Işıl Öz, Journal of Circuits, Systems, and Computers, 33(14), 2450254:1-2450254:33, 2024.
 - **[Quantitative Performance Analysis of BLAS Libraries on GPU Architectures](https://dergipark.org.tr/tr/pub/deumffmd/issue/82757/1254828)**, Işıl Öz, Dokuz Eylul University Faculty of Engineering Journal of Science and Engineering, 26(76), 40-48, 2024.
 - **[Teaching Accelerated Computing and Deep Learning at a Large-Scale with the NVIDIA Deep Learning Institute](https://doi.org/10.22369/issn.2153-4136/14/1/4)**, Bálint Gyires-Tóth, Işıl Öz, Joe Bungo, Journal of Computational Science Education, 14(1), 2023.
@@ -22,7 +24,8 @@ Journal Papers
 
 Conference Papers
 ---
-- **[Community Detection for Large Graphs on GPUs with Unified Memory](https://ieee-hpec.org/index.php/ieee-hpec-2024-prelim-agenda/)**, Emre Dinçer, Işıl Öz, IEEE High Performance Extreme Computing Virtual Conference (HPEC), 2024.
+- **[Teaching Accelerated Computing with Hands-on Experience](https://tcpp.cs.gsu.edu/curriculum/sites/default/files/2025072136.pdf)**, Işıl Öz, Chelsea Cropper, EduPar-25: 15th NSF/TCPP Workshop on Parallel and Distributed Computing Education, co-located with International Parallel and Distributed Processing Symposium (IPDPS), 2025.
+- **[Community Detection for Large Graphs on GPUs with Unified Memory](https://ieeexplore.ieee.org/document/10938494)**, Emre Dinçer, Işıl Öz, IEEE High Performance Extreme Computing Virtual Conference (HPEC), 2024.
 - **[Evaluating CUDA-Aware Approximate Computing Techniques](https://www.cerciras.org/action-events/raw-2024/)**, Işıl Öz, Workshop on Resource AWareness of Systems and Society (RAW), 2024.
 - **[Performance-Reliability Tradeoff Analysis for Safety-Critical Embedded Systems with GPUs](https://indico.truba.gov.tr/event/140/)**, Yağızcan Sezgin, Işıl Öz, Ulusal Yüksek Başarımlı Hesaplama Konferansı (BAŞARIM), 2024.
 - **[GPPRMon: GPU Runtime Memory Performance and Power Monitoring Tool](https://link.springer.com/chapter/10.1007/978-3-031-48803-0_2)**, Burak Topçu, Işıl Öz, Workshop on Resource AWareness of Systems and Society (RAW), co-located with International European Conference on Parallel and Distributed Computing (Euro-Par), 2023.

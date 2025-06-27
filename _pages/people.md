@@ -19,7 +19,10 @@ Graduate Students
 <img src='/images/bio-photo.jpg' width="180" height="200">
  PhD Student<br/>
  
-
+- **[Hakan Çoban](https://www.linkedin.com/in/cobanhakan/)**<br/><br/>
+<img src='/images/bio-photo.jpg' width="180" height="200">
+ MSc Student<br/>
+ 
 Undergraduate Students
 ---
 
