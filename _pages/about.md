@@ -23,13 +23,14 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
-- **[19/09/25]** We hosted Sarah Johnston, a PhD student in Durham University, in our online research group seminar. She gave a talk titled, "GPU Offloads for Gravity in SWIFT".
+- **[18/09/25]** We hosted Sarah Johnston, a PhD student in Durham University, in our online research group seminar. She gave a talk titled, "GPU Offloads for Gravity in SWIFT".
 
   <img src='/images/sarah.png' width="400" height="200">
   
 - **[17/09/25]** Deniz and Hatice, who are visiting Gdansk University of Technology, in the context of Erasmus+ Internship program, attended Performance-Energy Optimization Seminar at the Centre of Informatics Tricity Academic Supercomputer and networK to present our joint work.
 
   <img src='/images/denizgdansk.jpeg' width="400" height="200">
+  
   <img src='/images/haticegdansk.jpeg' width="400" height="200">
   
 - **[15/09/25]** Doğu presented our paper, titled "Analysis and Optimization of Spiking Neural Network Simulations on GPUs" at [IEEE High Performance Extreme Computing Virtual Conference](https://ieee-hpec.org/).
