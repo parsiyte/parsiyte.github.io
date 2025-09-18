@@ -24,6 +24,7 @@ Journal Papers
 
 Conference Papers
 ---
+- **[Analysis and Optimization of Spiking Neural Network Simulations on GPUs](https://ieee-hpec.org/index.php/ieee-hpec-2025-prelim-agenda/)**, Doğu Kocatepe, Işıl Öz, IEEE High Performance Extreme Computing Virtual Conference (HPEC), 2025.
 - **[Teaching Accelerated Computing with Hands-on Experience](https://tcpp.cs.gsu.edu/curriculum/sites/default/files/2025072136.pdf)**, Işıl Öz, Chelsea Cropper, EduPar-25: 15th NSF/TCPP Workshop on Parallel and Distributed Computing Education, co-located with International Parallel and Distributed Processing Symposium (IPDPS), 2025.
 - **[Community Detection for Large Graphs on GPUs with Unified Memory](https://ieeexplore.ieee.org/document/10938494)**, Emre Dinçer, Işıl Öz, IEEE High Performance Extreme Computing Virtual Conference (HPEC), 2024.
 - **[Evaluating CUDA-Aware Approximate Computing Techniques](https://www.cerciras.org/action-events/raw-2024/)**, Işıl Öz, Workshop on Resource AWareness of Systems and Society (RAW), 2024.

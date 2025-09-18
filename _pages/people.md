@@ -23,12 +23,10 @@ Graduate Students
 <img src='/images/bio-photo.jpg' width="180" height="200">
  MSc Student<br/>
  
-Undergraduate Students
----
-
 - **[Deniz Karabacak](https://www.linkedin.com/in/deniz-karabacak/)**<br/><br/>
 <img src='/images/deniz_karabacak.png' width="180" height="200">
  BSc Student<br/>
+  
  
 Alumni
 ---
