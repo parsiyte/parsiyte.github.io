@@ -25,7 +25,7 @@ Graduate Students
  
 - **[Deniz Karabacak](https://www.linkedin.com/in/deniz-karabacak/)**<br/><br/>
 <img src='/images/deniz_karabacak.png' width="180" height="200">
- BSc Student<br/>
+ MSc Student<br/>
   
  
 Alumni

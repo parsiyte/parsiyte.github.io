@@ -14,7 +14,7 @@ Technical Program Committee (TPC) Member
 
 - IEEE International Symposium on Workload Characterization ([IISWC](https://iiswc.org/iiswc2025/)). 
 
-Reviewer - [The Journal of Supercomputing](https://link.springer.com/journal/11227), [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td), [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688), [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12), [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43).
+Reviewer - [The Journal of Supercomputing](https://link.springer.com/journal/11227), [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td), [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688), [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12), [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43), [IEEE Transactions on Cloud Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519).
 
 Member - [HiPEAC](https://www.hipeac.net/), [RISC-V International](https://riscv.org/).
 

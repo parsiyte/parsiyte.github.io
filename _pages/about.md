@@ -23,6 +23,12 @@ We are always looking for motivated students interested in related topics. Pleas
 
 Recent News
 ------
+- **[14/11/25]** Işıl joined [CA24153 - Edge Deep Learning for Particle Physics (EPIGRAPHY)](https://www.cost.eu/actions/CA24153/) COST Action as a working group member.
+
+- **[12/11/25]**  Doğu's project titled "[Hybrid CPU/GPU Implementation of Symbolic Regression with Bytecode Virtual Machine](https://github.com/kocatepedogu/quick-symbolic-regression/)" was selected as one of the winners in the Accelerated Computing category of the [AMD Open Hardware 2025 competition](https://www.openhw.eu/2025_results_1). 
+
+ <iframe src="https://www.youtube.com/watch?v=B5MfGlMG740" height="400" width="200">
+
 - **[18/09/25]** We hosted Sarah Johnston, a PhD student in Durham University, in our online research group seminar. She gave a talk titled, "GPU Offloads for Gravity in SWIFT".
 
   <img src='/images/sarah.png' width="400" height="200">
